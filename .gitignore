@@ -1,1 +1,10 @@
 .env
+*json
+# Ignore node_modules
+node_modules/
+# Ignore logs
+logs/
+# Ignore build directories
+dist/
+# Ignore coverage reports
+coverage/
